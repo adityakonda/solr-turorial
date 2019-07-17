@@ -1,0 +1,7 @@
+First step
+Try this in http://localhost:8983/solr/#/pscollection/documents
+Partial update
+{"courseid":"scrum-development-jira-agile","coursetitle":{"set":"Small update"}}
+
+Full update
+{"courseid":"scrum-development-jira-agile","coursetitle":"Nothing"}

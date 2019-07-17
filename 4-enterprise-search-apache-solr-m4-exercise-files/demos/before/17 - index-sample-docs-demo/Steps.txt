@@ -1,0 +1,1 @@
+java -Durl="http://localhost:8983/solr/psdemo/update?f.tag.split=true&f.tag.separator=%20&f.tag.encapsulator='"  -Dtype=text/csv -jar post.jar "All pluralsight courses with authors and tags.csv"
